@@ -3,7 +3,7 @@
 A new Flutter project.
 ![](Screenshot_1594404586.png)
 
-![](Screenshot_1594404505.png)
+![](Screenshot_1594404605.png)
 
 -[Youtube Video Link](youtu.be/TNeVZOi2w7c)
 ## Getting Started
